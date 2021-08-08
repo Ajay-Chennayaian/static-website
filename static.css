@@ -1,0 +1,75 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+.card{
+	margin: 0;
+	padding:0;
+	background-color: #3E6466;
+	height: 550px;
+}
+.jumbotron{
+	background-image: url(images/types-of-onions-810x608.jpg);
+	background-repeat: none;
+	background-size: cover;
+	opacity: 0.7;
+	height: 400px;
+	
+}
+body{
+	padding: 20px;
+
+}
+
+footer .row{
+	background-color: #393737;
+	padding: 10px;
+	margin-right:; 
+
+}
+.row .a{
+	
+	
+	height: 150px;
+	width:300px;
+
+}
+.row .a h5:before{
+content: '|';
+color:red;
+display: inline-block;
+padding-right: 10px;
+}
+.navbar-nav a{
+	font-size: 20px;
+	font-style: italic;
+  
+}
+footer .three a{
+text-decoration: none;
+font-size:20px; 
+color: white;
+display: block;
+}
+footer .three li{
+margin-bottom: 3px;
+}
+footer .three a:hover{
+	color:#97D6E4;
+}
+ footer .a  i{
+    padding-top: 40px;
+ 	padding-left: 3px;
+	font-size:30px; 
+	
+}
+.card img{
+	height: 150px;
+	max-width: 640px;
+	align-content: center;
+	object-fit: cover;
+}
+footer i:hover{
+cursor: pointer;
+color: #65A2F5 ;
+}
